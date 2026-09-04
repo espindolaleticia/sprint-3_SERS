@@ -1,4 +1,3 @@
-# sprint2_grupo2
 
 # Gestão Sustentável de Eletropostos
 
